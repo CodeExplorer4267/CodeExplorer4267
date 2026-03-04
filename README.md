@@ -87,7 +87,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Rupam344?theme=dark&font=Baloo&ext=heatmap"/>
 
 </p>
 
@@ -97,7 +97,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/rupam-bhadra-52b8182b0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
