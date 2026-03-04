@@ -1,62 +1,126 @@
 <h1 align="center">Hi 👋, I'm Rupam</h1>
-<h3 align="center">MERN Stack Developer | C/C++ Enthusiast | Python Explorer</h3>
+<h3 align="center">🚀 MERN Stack Developer | ⚡ C/C++ Enthusiast | 🐍 Python Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Code...;MERN+Stack+Developer;Full+Stack+Web+Enthusiast;Love+to+Build+and+Break+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Full+Stack+Web+Developer;MERN+Stack+Specialist;I+Love+Building+Cool+Things;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-### 🚀 About Me:
-- 💻 I’m a passionate **Full Stack Developer** with a focus on **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
-- 🧠 I write efficient code in **C, C++, Python**.
-- 🎨 I build responsive frontends using **HTML, CSS, JS, SCSS, Material UI**.
-- 💾 Backend wizardry with **Node.js, Express.js**, and databases like **MongoDB** and **MySQL**.
-- 💡 I love building **real-world projects** that solve problems and look awesome.
+# 💫 About Me
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+💻 Passionate **Full Stack Developer** focused on the **MERN Stack**
+
+⚡ I love solving problems using **C, C++, Python**
+
+🎨 Crafting beautiful frontends with  
+**React, HTML, CSS, SCSS, Material UI**
+
+🧠 Backend development with  
+**Node.js, Express.js**
+
+💾 Databases I use  
+**MongoDB & MySQL**
+
+🚀 Always building **real-world scalable projects**
 
 ---
 
-### 🛠️ Tech Stack:
+# 🛠️ Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,sass,materialui" />
+</p>
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Rupam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ---
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeExplorer4267&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeExplorer4267&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-🔭 *“Always learning. Always building. Always pushing the limits.”*
+# 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeExplorer4267&theme=tokyo-night&hide_border=true"/>
 
-<!---
-CodeExplorer4267/CodeExplorer4267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeExplorer4267&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/CodeExplorer4267/CodeExplorer4267/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🔥 LeetCode Stats + Heatmap
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CodeExplorer4267&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# ⚡ Fun Quote
+
+<p align="center">
+
+"Code. Debug. Learn. Repeat."
+
+</p>
